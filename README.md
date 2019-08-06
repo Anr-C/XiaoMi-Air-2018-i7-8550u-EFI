@@ -1,7 +1,7 @@
 # XiaoMi-Air-2018-i7-8550u-EFI
 Hackintosh EFI for MiBook Air 2018 (i7-8550u , Fingerprint)
 
-* Clover : Clover-v2.4k-4979-X64
+* Clover : Clover-v2.5k-5033-X64
 
 What' not work:
 
