@@ -1,7 +1,7 @@
 # XiaoMi-Air-2018-i7-8550u-EFI
 Hackintosh EFI for MiBook Air 2018 (i7-8550u , Fingerprint)
 
-* Clover : Clover-v2.4k-4813-X64
+* Clover : Clover-v2.4k-4979-X64
 
 What' not work:
 
@@ -11,7 +11,8 @@ What' not work:
 
 Maybe work:
 
-* HDMI
+* HDMI Out (test pass)
+* Audio (Mic,Headphones,Line out ...) (test pass)
 
 # Thanks
 
