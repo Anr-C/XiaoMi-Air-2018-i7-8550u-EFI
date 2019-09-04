@@ -18,3 +18,5 @@ Maybe work:
 
 * [jojnnyc13](https://github.com/johnnync13/Xiaomi-Mi-Air) basic version
 * [宪武dell5480/lenovoAir13](#) fix some problem , delete some file which is not needed .
+
+At last, I got the mbp2019, so this project will not update anymore.
